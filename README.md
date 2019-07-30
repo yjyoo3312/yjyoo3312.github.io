@@ -3,7 +3,7 @@
 - Ph.D. Department of Electrical and Computer Engineering, Seoul National University, February, 2017.
 - Thesis: Bayesian Prediction and Regression from Visual Data
 - B.S., School of Electrical Engineering and Computer Science, Seoul National University, February 2011
-- Research Interest: Computer Vision, Statistical inference, Probabilistic graphical models, Deep generative models
+- Research Interest: Computer Vision, Detection & Classification, Statistical inference, Probabilistic graphical models
 
 ### Markdown
 
