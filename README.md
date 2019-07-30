@@ -6,8 +6,15 @@
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
 
-### Publication
+## Publication
+### 2019
 TBA1 
 
 TBA2
+
+### 2018
+
+### 2017
+
+### ~2016
 
