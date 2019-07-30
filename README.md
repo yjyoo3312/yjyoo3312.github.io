@@ -28,7 +28,7 @@
 * arXiv preprint
 
 ### 2018
-#### [Pose transforming network: Learning to disentangle human posture in variational auto-encoded latent space](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302678)
+#### [Pose Transforming Network: Learning to Disentangle Human Posture in Variational Auto-encoded Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302678)
 * Jongin Lim, YoungJoon Yoo, Byeongho Heo, Jin Young Choi 
 * Pattern Recognition Letters  (PRL), Sep. 2018.
 
