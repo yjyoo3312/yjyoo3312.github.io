@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yjyoo3312/yjyoo3312.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bio
+- Research Scientist, CLAIR(CLOVA AI Research), Naver corp.,
+- Ph.D. Department of Electrical and Computer Engineering, Seoul National University, February, 2017.
+- Thesis: Bayesian Prediction and Regression from Visual Data
+- B.S., School of Electrical Engineering and Computer Science, Seoul National University, February 2011
+- Research Interest: Computer Vision, Statistical inference, Probabilistic graphical models, Deep generative models
 
 ### Markdown
 
