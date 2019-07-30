@@ -8,7 +8,10 @@
 
 ## Publication
 ### 2019
-TBA1 
+EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse\
+Youngjoon Yoo, Dongyoon Han, Sangdoo Yun\
+arXiv preprint arXiv:1906.06579\
+[PDF][Supplementary Material][Code] 
 
 TBA2
 
