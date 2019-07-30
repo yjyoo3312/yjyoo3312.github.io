@@ -13,7 +13,10 @@
 * arXiv preprint arXiv:1906.06579
 * [Code](https://github.com/clovaai/EXTD_Pytorch)
 
-TBA2
+#### [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/abs/1905.04899)
+* Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo
+* IEEE International Conference on Computer Vision (ICCV), 2019. *Oral presentation (187/4303=4.3%)*
+* [Code](https://github.com/ClovaAI/CutMix-PyTorch), [Blog post](https://clova-ai.blog/2019/07/15/cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features/)
 
 ### 2018
 
