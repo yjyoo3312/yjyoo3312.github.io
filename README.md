@@ -8,10 +8,10 @@
 
 ## Publication
 ### 2019
-EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse\
-Youngjoon Yoo, Dongyoon Han, Sangdoo Yun\
-arXiv preprint arXiv:1906.06579\
-[PDF][Supplementary Material][Code] 
+#### EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse\
+- Youngjoon Yoo, Dongyoon Han, Sangdoo Yun\
+- arXiv preprint arXiv:1906.06579\
+- [PDF](https://arxiv.org/abs/1906.06579), [Code](https://github.com/clovaai/EXTD_Pytorch)
 
 TBA2
 
