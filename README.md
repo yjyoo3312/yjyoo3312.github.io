@@ -66,6 +66,6 @@
 * YoungJoon Yoo, Kimin Yun, Sangdoo Yun, JongHee Hong, Hawook Jeong and Jin Young Choi
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016
 
-#### [Two-stage online inference model for traffic pattern analysis and anomaly detection](https://link.springer.com/article/10.1007/s00138-014-0629-y)
+#### [Two-stage oOnline Inference model for Traffic Pattern Analysis and Anomaly Detection](https://link.springer.com/article/10.1007/s00138-014-0629-y)
 * Hawook Jeong, Youngjoon Yoo, Kwang Moo Yi, Jin Young Choi
 * IEEE Machine Vision and Applications, August 2014, Volume 25, Issue 6, pp 1501-1517, 2014
