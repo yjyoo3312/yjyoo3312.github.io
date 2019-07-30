@@ -1,30 +1,13 @@
 ## Bio
-- Research Scientist, CLAIR(CLOVA AI Research), Naver corp.,
+- Research Scientist, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
+- PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page) 
 - Ph.D. Dept of Electrical and Computer Engineering, Seoul National University, February, 2017.
 - Thesis: Bayesian Prediction and Regression from Visual Data
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
 
-### Markdown
+### Publication
+TBA1 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TBA2
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
