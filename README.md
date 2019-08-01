@@ -1,7 +1,7 @@
 ## Bio
 - Research Scientist, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
-- PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page) 
-- Ph.D. Dept of Electrical and Computer Engineering, Seoul National University, February, 2017.
+- PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page). 
+- Ph.D. Dept of Electrical and Computer Engineering, Seoul National University, February, 2017. [Perception and Intelligence Lab](http://pil.snu.ac.kr/).
 - Thesis: Bayesian Prediction and Regression from Visual Data
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
