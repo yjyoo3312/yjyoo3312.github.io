@@ -42,17 +42,17 @@
 * Daesik Kim, **YoungJoon Yoo**, Jeesoo Kim, Sangkuk Lee, Nojun Kwak
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
 
-#### [Superpixel-based Semantic Segmentation Trained by Statistical Process Control](https://arxiv.org/abs/1706.10071)
-* Hyojin Park, Jisoo Jeong, **YoungJoon Yoo**, and Nojun Kwak
-* The British MachineVision Conference (BMVC), Newcathle, UK, Sep. 2017
-* [Code](https://github.com/HYOJINPARK/HP-SPS)
-
 #### [BOOK: Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning](https://arxiv.org/abs/1709.01308)
 * Simyung Chang, **YoungJoon Yoo**, Jaeseok Choi, Nojun Kwak
 * International Conference on Pattern Recognition Applications and Methods, ICPRAM 2017 (Best paper candidate)
 
 
 ### 2017
+#### [Superpixel-based Semantic Segmentation Trained by Statistical Process Control](https://arxiv.org/abs/1706.10071)
+* Hyojin Park, Jisoo Jeong, **YoungJoon Yoo**, and Nojun Kwak
+* The British MachineVision Conference (BMVC), Newcathle, UK, Sep. 2017
+* [Code](https://github.com/HYOJINPARK/HP-SPS)
+
 #### [Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)
 * Sangdoo Yun, Jongwon Choi, **YoungJoon Yoo**, Kimin Yun, and Jin Young Choi
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017
