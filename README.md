@@ -49,7 +49,7 @@
 
 #### [BOOK: Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning](https://arxiv.org/abs/1709.01308)
 * Simyung Chang, **YoungJoon Yoo**, Jaeseok Choi, Nojun Kwak
-* arXiv preprint
+* International Conference on Pattern Recognition Applications and Methods, ICPRAM 2017 (Best paper candidate)
 
 
 ### 2017
