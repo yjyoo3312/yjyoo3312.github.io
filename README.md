@@ -28,10 +28,6 @@
 * Hyojin Park, **YoungJoon Yoo**, Geonseok Seo, Dongyoon Han, Sangdoo Yun, Nojun Kwak
 * arXiv preprint
 
-#### [BOOK: Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning](https://arxiv.org/abs/1709.01308)
-* Simyung Chang, **YoungJoon Yoo**, Jaeseok Choi, Nojun Kwak
-* arXiv preprint
-
 ### 2018
 #### [Pose Transforming Network: Learning to Disentangle Human Posture in Variational Auto-encoded Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0167865518302678)
 * Jongin Lim, **YoungJoon Yoo**, Byeongho Heo, Jin Young Choi 
@@ -51,6 +47,12 @@
 * The British MachineVision Conference (BMVC), Newcathle, UK, Sep. 2017
 * [Code](https://github.com/HYOJINPARK/HP-SPS)
 
+#### [BOOK: Storing Algorithm-Invariant Episodes for Deep Reinforcement Learning](https://arxiv.org/abs/1709.01308)
+* Simyung Chang, **YoungJoon Yoo**, Jaeseok Choi, Nojun Kwak
+* arXiv preprint
+
+
+### 2017
 #### [Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)
 * Sangdoo Yun, Jongwon Choi, **YoungJoon Yoo**, Kimin Yun, and Jin Young Choi
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017
@@ -61,16 +63,16 @@
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017
 * [Code](https://github.com/yjyoo3312/VAE_REGRESSION_AL)
 
-### 2017
 #### [Motion Interaction Field for Detection of Abnormal Interactions](https://link.springer.com/article/10.1007%2Fs00138-016-0816-0)
 * Kimin Yun, **YoungJoon Yoo**, Jin Young Choi
 * IEEE Machine Vision and Applications, Volume 28, Issue 1, pp 157–171, 2017
+
+### 2016
 #### [Visual Path Prediction in Complex Scenes with Crowded Moving Objects](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)
 * **YoungJoon Yoo**, Kimin Yun, Sangdoo Yun, JongHee Hong, Hawook Jeong and Jin Young Choi
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016
 
-### ~2016
-
+### ~2015
 #### [Two-stage Online Inference model for Traffic Pattern Analysis and Anomaly Detection](https://link.springer.com/article/10.1007/s00138-014-0629-y)
 * Hawook Jeong, **YoungJoon Yoo**, Kwang Moo Yi, Jin Young Choi
 * IEEE Machine Vision and Applications, August 2014, Volume 25, Issue 6, pp 1501-1517, 2014
