@@ -10,7 +10,7 @@
 ## Publication
 ### 2019
 
-#### [Concentrated-Comprehensive Convolutions for Lightweight Semantic Segmentation](https://arxiv.org/pdf/1812.04920.pdf)
+#### [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
 * Hyojin Park, Lars Lowe Sjösund, **YoungJoon Yoo**, Nojun Kwak
 * arXiv preprint
 
