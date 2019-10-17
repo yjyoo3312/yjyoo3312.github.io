@@ -12,7 +12,7 @@
 #### [Neural Approximation of an Auto-Regressive Process through Confidence Guided Sampling](https://arxiv.org/abs/1910.06705)
 * **YoungJoon Yoo**, Sanghyuk Chun, Sangdoo Yun, Jung-Woo Ha, Jaejun Yoo*
 * arXiv preprint
-* [Code])
+* [Code]
 
 #### [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
 * Hyojin Park, Lars Lowe Sjösund, **YoungJoon Yoo**, Nojun Kwak*
