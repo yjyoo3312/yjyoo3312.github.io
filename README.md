@@ -16,7 +16,7 @@
 
 #### [ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules](https://arxiv.org/abs/1908.03093)
 * Hyojin Park, Lars Lowe Sjösund, **YoungJoon Yoo**, Nojun Kwak*
-* arXiv preprint
+* IEEE Winter Conference on Applications of Computer Vision (WACV), 2019
 
 #### [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://arxiv.org/abs/1906.06579)
 * **YoungJoon Yoo**, Dongyoon Han, Sangdoo Yun
