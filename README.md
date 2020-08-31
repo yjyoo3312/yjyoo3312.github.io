@@ -10,6 +10,11 @@
 
 ## Publication
 ### 2020
+#### [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)
+* Dongyoon Han, Sangdoo Yun, Byeongho Heo, **YoungJoon Yoo**
+* arXiv preprint
+* [Code](https://github.com/clovaai/rexnet)
+
 #### [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.09679)
 * Taehoon Kim, **YoungJoon Yoo**, Jihoon Yang
 * arXiv preprint
