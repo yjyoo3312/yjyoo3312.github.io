@@ -1,4 +1,5 @@
 ## Bio
+- Leading Face Team, ClOVA AI.
 - Research Scientist, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
 - PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page). 
 - Ph.D. Dept of Electrical and Computer Engineering, Seoul National University, February, 2017. [Perception and Intelligence Lab](http://pil.snu.ac.kr/).
@@ -8,6 +9,12 @@
 - [Curriculum vitae](https://drive.google.com/file/d/1ifPxguZmnlxeb2z1AElRdtKVBaZSjCl8/view), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
 
 ## Publication
+### 2020
+#### [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.09679)
+* Taehoon Kim, **Youngjoon Yoo**, Jihoon Yang
+* arXiv preprint
+* [Code](https://github.com/clovaai/StatAssist-GradBoost)
+
 ### 2019
 #### [Neural Approximation of an Auto-Regressive Process through Confidence Guided Sampling](https://arxiv.org/abs/1910.06705)
 * **YoungJoon Yoo**, Sanghyuk Chun, Sangdoo Yun, Jung-Woo Ha, Jaejun Yoo*
