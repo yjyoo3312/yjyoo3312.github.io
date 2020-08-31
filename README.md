@@ -11,7 +11,7 @@
 ## Publication
 ### 2020
 #### [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.09679)
-* Taehoon Kim, **Youngjoon Yoo**, Jihoon Yang
+* Taehoon Kim, **YoungJoon Yoo**, Jihoon Yang
 * arXiv preprint
 * [Code](https://github.com/clovaai/StatAssist-GradBoost)
 
