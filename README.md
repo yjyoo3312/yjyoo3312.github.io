@@ -6,7 +6,7 @@
 - Thesis: Bayesian Prediction and Regression from Visual Data
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
-- [Curriculum vitae](https://drive.google.com/file/d/1ifPxguZmnlxeb2z1AElRdtKVBaZSjCl8/view), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
+- [Curriculum vitae](https://drive.google.com/file/d/1qewbLHKH8UIMKhGlkLWMJUsatW_0tYst/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
 
 ## Publication
 ### 2020
