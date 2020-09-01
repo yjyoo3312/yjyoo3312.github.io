@@ -10,6 +10,11 @@
 
 ## Publication
 ### 2020
+#### [Efficient Active Learning for Automatic Speech Recognition via Augmented Consistency Regularization](https://arxiv.org/pdf/2006.11021.pdf)
+* Jihwan Bang2, Heesu Kim, **YoungJoon Yoo**, Jung-Woo Ha
+* arXiv preprint
+* Code
+
 #### [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)
 * Dongyoon Han, Sangdoo Yun, Byeongho Heo, **YoungJoon Yoo**
 * arXiv preprint
