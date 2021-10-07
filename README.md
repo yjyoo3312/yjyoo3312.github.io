@@ -1,5 +1,5 @@
 ## Bio
-- Visiting Assistant Professor, Seoul National University
+- Adjunct Assistant Professor, Seoul National University
 - Lead, Face Team, ClOVA AI.
 - Research Scientist, Technical Lead, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
 - PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page). 
