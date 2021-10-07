@@ -1,4 +1,5 @@
 ## Bio
+- Visiting Assistant Professor, Seoul National University
 - Leading Face Team, ClOVA AI.
 - Research Scientist, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
 - PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page). 
@@ -9,9 +10,20 @@
 - [Curriculum vitae](https://drive.google.com/file/d/1qewbLHKH8UIMKhGlkLWMJUsatW_0tYst/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
 
 ## Publication
+### 2021
+#### [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://arxiv.org/pdf/2106.11562.pdf)
+* Sungmin Cha, Beomyoung Kim, **Youngjoon Yoo**, Taesup Moon
+* Advances in Neural Information Processing Systems (Neurips) 2021
+* [Code](https://github.com/clovaai/SSUL)
+
+#### [Rainbow Memory: Continual Learning with a Memory of Diverse Samples](https://openaccess.thecvf.com/content/CVPR2021/html/Bang_Rainbow_Memory_Continual_Learning_With_a_Memory_of_Diverse_Samples_CVPR_2021_paper.html)
+* Jihwan Bang, Heesu Kim, **YoungJoon Yoo**, Jung-Woo Ha, Jonghyun Choi
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
+* [Code](https://github.com/clovaai/rainbow-memory)
+
 ### 2020
 #### [Efficient Active Learning for Automatic Speech Recognition via Augmented Consistency Regularization](https://arxiv.org/pdf/2006.11021.pdf)
-* Jihwan Bang2, Heesu Kim, **YoungJoon Yoo**, Jung-Woo Ha
+* Jihwan Bang, Heesu Kim, **YoungJoon Yoo**, Jung-Woo Ha
 * arXiv preprint
 * Code
 
