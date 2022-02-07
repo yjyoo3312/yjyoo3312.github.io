@@ -1,6 +1,6 @@
 ## Bio
 - Adjunct Assistant Professor, Seoul National University
-- Lead, Face Team, ClOVA AI.
+- Leader, ImageVision Team, ClOVA AI.
 - Research Scientist, Technical Lead, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
 - PostDoc. [Machine Intellgigence and Pattern Analysis Lab](http://mipal.snu.ac.kr/index.php/Main_Page). 
 - Ph.D. Dept of Electrical and Computer Engineering, Seoul National University, February, 2017. [Perception and Intelligence Lab](http://pil.snu.ac.kr/).
@@ -10,6 +10,12 @@
 - [Curriculum vitae](https://drive.google.com/file/d/1qewbLHKH8UIMKhGlkLWMJUsatW_0tYst/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
 
 ## Publication
+### 2022
+#### [Learning Features with Parameter-Free Layers](https://openreview.net/forum?id=bCrdi4iVvv)
+* Dongyoon Han, **YoungJoon Yoo**, Beomyoung Kim, Byeongho Heo
+* The Tenth International Conference on Learning Representations (ICLR) 2022.
+* Code will be available soon.
+
 ### 2021
 #### [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://arxiv.org/pdf/2106.11562.pdf)
 * Sungmin Cha, Beomyoung Kim, **Youngjoon Yoo**, Taesup Moon
