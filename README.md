@@ -40,16 +40,17 @@
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
 * [Code](https://github.com/clovaai/rainbow-memory)
 
+#### [ReXNet: Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)
+* Dongyoon Han, Sangdoo Yun, Byeongho Heo, **YoungJoon Yoo**
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
+* [Code](https://github.com/clovaai/rexnet)
+
 ### 2020
 #### [Efficient Active Learning for Automatic Speech Recognition via Augmented Consistency Regularization](https://arxiv.org/pdf/2006.11021.pdf)
 * Jihwan Bang, Heesu Kim, **YoungJoon Yoo**, Jung-Woo Ha
 * arXiv preprint
 * Code
 
-#### [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)
-* Dongyoon Han, Sangdoo Yun, Byeongho Heo, **YoungJoon Yoo**
-* arXiv preprint
-* [Code](https://github.com/clovaai/rexnet)
 
 #### [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.09679)
 * Taehoon Kim, **YoungJoon Yoo**, Jihoon Yang
