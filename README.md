@@ -27,7 +27,7 @@
 * Synthetic Data Generation Workshop at the Tenth International Conference on Learning Representations (ICLR) 2021.
 
 #### [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/pdf/2110.04248)
-* Sungmin Cha, Naeun Ko, **Youngjoon Yoo**, Taesup Moon
+* Joonhyeon Jeong, Sungmin Cha, Naeun Ko, **Youngjoon Yoo**, Taesup Moon
 * Adversarial Machine Learning Workshop at International Conference on Machine Learning (ICMLW) 2021.
  
 #### [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://arxiv.org/pdf/2106.11562.pdf)
