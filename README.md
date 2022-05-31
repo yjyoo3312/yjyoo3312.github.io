@@ -7,16 +7,29 @@
 - Thesis: Bayesian Prediction and Regression from Visual Data
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
-- [Curriculum vitae](https://drive.google.com/file/d/1qewbLHKH8UIMKhGlkLWMJUsatW_0tYst/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
+- [Curriculum vitae](https://drive.google.com/file/d/1xd5b5S1VzW4VdXJeQ1M1BF9J6u4WAzOr/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
 
 ## Publication
 ### 2022
+#### [Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement](https://arxiv.org/abs/2109.09477)
+* Beomyoung Kim, **YoungJoon Yoo**, Chaeeun Rhee, Junmo Kim
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
+* [Code](https://github.com/clovaai/BESTIE)
+
 #### [Learning Features with Parameter-Free Layers](https://arxiv.org/abs/2202.02777)
 * Dongyoon Han, **YoungJoon Yoo**, Beomyoung Kim, Byeongho Heo
 * The Tenth International Conference on Learning Representations (ICLR) 2022.
 * [Code](https://github.com/naver-ai/PfLayer)
 
 ### 2021
+#### [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)
+* Sungmin Cha, Beomyoung Kim, **Youngjoon Yoo**, Taesup Moon
+* Synthetic Data Generation Workshop at the Tenth International Conference on Learning Representations (ICLR) 2021.
+
+#### [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations](https://arxiv.org/pdf/2110.04248)
+* Sungmin Cha, Naeun Ko, **Youngjoon Yoo**, Taesup Moon
+* Adversarial Machine Learning Workshop at International Conference on Machine Learning (ICMLW) 2021.
+ 
 #### [SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning](https://arxiv.org/pdf/2106.11562.pdf)
 * Sungmin Cha, Beomyoung Kim, **Youngjoon Yoo**, Taesup Moon
 * Advances in Neural Information Processing Systems (Neurips) 2021
