@@ -11,6 +11,11 @@
 
 ## Publication
 ### 2022
+#### [Neural Architecture Search with Loss Flatness-aware Measure]()
+* Joonhyun Jeong, Joonsang Yu, Dongyoon Han, **YoungJoon Yoo**
+* ICML Workshop on Dynamic Neural Networks 2022.
+* [Code]()
+
 #### [Beyond Semantic to Instance Segmentation: Weakly-Supervised Instance Segmentation via Semantic Knowledge Transfer and Self-Refinement](https://arxiv.org/abs/2109.09477)
 * Beomyoung Kim, **YoungJoon Yoo**, Chaeeun Rhee, Junmo Kim
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
