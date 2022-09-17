@@ -1,4 +1,5 @@
-## Bio
+## About me
+### Academy
 - Adjunct Assistant Professor, Seoul National University
 - Leader, ImageVision Team, ClOVA AI.
 - Research Scientist, Technical Lead, [CLAIR(CLOVA AI Research)](https://clova.ai/en/research/research-areas.html), Naver corp.,
@@ -8,6 +9,15 @@
 - B.S., Electrical Engineering and Computer Science, Seoul National University, February 2011
 - Research Interest: Computer Vision, Detection & Classification, Probabilistic graphical models
 - [Curriculum vitae](https://drive.google.com/file/d/1xd5b5S1VzW4VdXJeQ1M1BF9J6u4WAzOr/view?usp=sharing), [Google scholar](https://scholar.google.co.kr/citations?user=YGVqRuIAAAAJ&hl=ko), [git](https://github.com/yjyoo3312)
+### Industry
+Currently, I am leading ImageVision team in CLOVA AI, dealing with various computer vision topics including:
+
+- Face recognition / Security for Authetication
+- Segmentation / Keypoint-detection for Beuty app / AR
+- Text/Vision multimodal problems
+- Generation.
+
+ImageVision team covers various service&academy-related vision deep models, from sdk-level lightweight models to Recent large-scale models.
 
 ## Publication
 ### 2022
