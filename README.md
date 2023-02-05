@@ -1,4 +1,10 @@
 ## Publication
+### 2023
+#### [Observations on K-image Expansion of Image-Mixing Augmentation]()
+* Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, **YoungJoon Yoo** (Corresponding author)
+* IEEE Access
+* [Code] 
+
 ### 2022
 #### [Neural Architecture Search with Loss Flatness-aware Measure]()
 * Joonhyun Jeong, Joonsang Yu, Dongyoon Han, **YoungJoon Yoo**
