@@ -14,7 +14,7 @@
 * Joonhyun Jeong, Joonsang Yu, Geondo Park, Dongyoon Han, **YoungJoon Yoo** (Corresponding author)
 * International Joint Conference on Artificial Intelligence (IJCAI-23)
 * [Code](https://github.com/clovaai/GeNAS)
-* 
+  
 #### [Observations on K-image Expansion of Image-Mixing Augmentation]()
 * Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, **YoungJoon Yoo** (Corresponding author)
 * IEEE Access
