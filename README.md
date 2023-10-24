@@ -1,5 +1,20 @@
 ## Publication
 ### 2023
+#### [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations]()
+* Sungmin Cha, Naeun Ko, Heewoong Choi, **YoungJoon Yoo**, Taesup Moon 
+* Winter Conference on Applications of Computer Vision (WACV) 2024
+* Code
+
+#### [EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection]()
+* Joonhyun Jeong, Beomyoung Kim, Joonsang Yu, **YoungJoon Yoo** (Corresponding author)
+* Winter Conference on Applications of Computer Vision (WACV) 2024
+* Code
+  
+#### [GeNAS: Neural Architecture Search with Better Generalization]()
+* Joonhyun Jeong, Joonsang Yu, Geondo Park, Dongyoon Han, **YoungJoon Yoo** (Corresponding author)
+* International Joint Conference on Artificial Intelligence (IJCAI-23)
+* [Code](https://github.com/clovaai/GeNAS)
+* 
 #### [Observations on K-image Expansion of Image-Mixing Augmentation]()
 * Joonhyun Jeong, Sungmin Cha, Jongwon Choi, Sangdoo Yun, Taesup Moon, **YoungJoon Yoo** (Corresponding author)
 * IEEE Access
