@@ -1,4 +1,15 @@
 ## Publication
+### 2024
+#### [Topic-VQ-VAE: Leveraging Latent Codebooks for Flexible Topic-Guided Document Generation]()
+* **YoungJoon Yoo**, Jongwon Choi 
+* The 38th Annual AAAI Conference on Artificial Intelligence 2024
+* [Code](https://github.com/clovaai/TVQ-VAE)
+
+#### [Gaussian Mixture Proposals with Pull-Push Learning Scheme to Capture Diverse Events for Weakly Supervised Temporal Video Grounding]()
+* Sunoh Kim , Jungchan Cho, Joonsang Yu, **YoungJoon Yoo**, Jin Young Choi
+* The 38th Annual AAAI Conference on Artificial Intelligence 2024
+* Code
+
 ### 2023
 #### [NCIS: Neural Contextual Iterative Smoothing for Purifying Adversarial Perturbations]()
 * Sungmin Cha, Naeun Ko, Heewoong Choi, **YoungJoon Yoo**, Taesup Moon 
