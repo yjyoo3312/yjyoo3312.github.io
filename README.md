@@ -1,6 +1,6 @@
 ## Publication
 ### 2025
-#### [Topic-VQ-VAE: Leveraging Latent Codebooks for Flexible Topic-Guided Document Generation]()
+#### [FastADnet: Fast Anomaly Detection via Core-feature Centered Cluster Reconstruction Network]()
 * Daeyeob Na, **YoungJoon Yoo** (Corresponding Author)
 * IEEE Access
 * Code
