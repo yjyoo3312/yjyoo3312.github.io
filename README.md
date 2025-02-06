@@ -1,4 +1,9 @@
 ## Publication
+### 2025
+#### [Topic-VQ-VAE: Leveraging Latent Codebooks for Flexible Topic-Guided Document Generation]()
+* Daeyeob Na, **YoungJoon Yoo** (Corresponding Author)
+* IEEE Access
+* Code
 ### 2024
 #### [Topic-VQ-VAE: Leveraging Latent Codebooks for Flexible Topic-Guided Document Generation]()
 * **YoungJoon Yoo**, Jongwon Choi 
